@@ -45,46 +45,5 @@ export const Data=[
         c: "Asia",
         d: "Australia",
         ans: "Asia"
-    },
-    {
-        q: "Which is the longest river in the world?",
-        a: "Amazon",
-        b: "Nile",
-        c: "Yangtze",
-        d: "Mississippi",
-        ans: "Nile"
-    },
-    {
-        q: "What is the chemical symbol for water?",
-        a: "O2",
-        b: "H2O",
-        c: "CO2",
-        d: "NaCl",
-        ans: "H2O"
-    },
-    {
-        q: "Who discovered penicillin?",
-        a: "Louis Pasteur",
-        b: "Marie Curie",
-        c: "Alexander Fleming",
-        d: "Isaac Newton",
-        ans: "Alexander Fleming"
-    },
-    {
-        q: "What is the largest mammal in the world?",
-        a: "Elephant",
-        b: "Blue Whale",
-        c: "Great White Shark",
-        d: "Giraffe",
-        ans: "Blue Whale"
-    },
-    {
-        q: "Which Indian city is known as the 'Pink City'?",
-        a: "Udaipur",
-        b: "Jodhpur",
-        c: "Jaipur",
-        d: "Bikaner",
-        ans: "Jaipur"
-    }    
-    
+    }
 ]

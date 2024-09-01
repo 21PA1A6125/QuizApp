@@ -11,7 +11,7 @@ const Quiz = () => {
    if(index < data.length-1){
      setIndex(index+1)
    }else{
-     document.querySelector(".score").innerHTML=`<p>Your Score : ${score}/11</p>`
+     document.querySelector(".score").innerHTML=`<p>Your Score : ${score}/6</p>`
 
      document.querySelector(".quiz").innerHTML=""
 
